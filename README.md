@@ -4,9 +4,9 @@ Learning how to implement CRUD ... Making such a tiny project to clear our under
 
 !!!! IMPORTANT !!!!
 please make sure you have all the npm modules to make this file working
- {   
-      npm init -y
-      npm i express
-      npm i uuid
+    
+     1. npm init -y
+     2. npm i express
+     3. npm i uuid
             
-                    }
+                    
